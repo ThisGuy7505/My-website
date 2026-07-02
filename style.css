@@ -1,5 +1,20 @@
-h1#1 {
-  color: blue;
-  font-size: xxx-large;
+h1#a1 {
+    font-size: xxx-large;
+}
+body {
+  background-color: #00a6ff;
+  color: #85d4ff;
   font: -webkit-control;
+  text-align: center;
+}
+h1#a2 {
+  font-size: 20px;
+}
+a {
+  color: #85d4ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #63c9ff;
 }
