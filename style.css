@@ -2,7 +2,7 @@ h1#a1 {
     font-size: xxx-large;
 }
 body {
-  background-color: #00a6ff;
+  background-image: url('images/background.jpg');
   color: #85d4ff;
   font: -webkit-control;
   text-align: center;
